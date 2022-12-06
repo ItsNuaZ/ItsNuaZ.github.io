@@ -3,4 +3,4 @@ permalink: /privacy/
 title: "Privacy Policy"
 ---
 
-Our Privacy Policy goes here.
+Our Privacy Policy goes here lol.
